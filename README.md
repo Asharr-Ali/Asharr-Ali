@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=HELLO+WORLD!;I'm+ASHAR+ALI" alt="Typing Animation" />
 
-<h3 style="color: #e6f7ff; text-shadow: 0 0 10px #00f7ff, 0 0 20px #00f7ff;">💻 Full-Stack Dev | 🚀 FAST-NUCES '27</h3>
+<h3 style="color: #e6f7ff; text-shadow: 0 0 10px #00f7ff, 0 0 20px #00f7ff;">💻 Full-Stack Dev | 🚀 FAST-NUCES</h3>
 
 <div style="display: flex; justify-content: center; gap: 15px; margin: 1.5rem 0;">
 
